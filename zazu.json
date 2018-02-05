@@ -64,6 +64,12 @@
         "hotkey": "CmdOrCtrl+Alt+Space",
         "connections": [ "Write" ]
       }
+      {
+        "id": "Direct",
+        "type": "Hotkey",
+        "hotkey": "Shift+Alt+Space",
+        "connections": [ "Read" ]
+      }
     ]
   }
 }
