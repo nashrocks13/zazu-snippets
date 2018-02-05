@@ -27,7 +27,7 @@ Add the package to your plugins array in `./zazurc.json`.
 ~~~ json
 {
   "plugins": [
-    "tinytacoteam/zazu-snippets"
+    "nashrocks13/zazu-snippets"
   ]
 }
 ~~~
