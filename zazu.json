@@ -8,7 +8,7 @@
         "id": "Read",
         "type": "PrefixScript",
         "prefix": "'",
-        "space": true,
+        "space": false,
         "args": "Required",
         "script": "src/read.js",
         "connections": [
