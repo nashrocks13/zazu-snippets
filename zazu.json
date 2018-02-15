@@ -61,13 +61,7 @@
       {
         "id": "Direct",
         "type": "Hotkey",
-        "hotkey": "CmdOrCtrl+Alt+Space",
-        "connections": [ "Write" ]
-      }
-      {
-        "id": "Direct",
-        "type": "Hotkey",
-        "hotkey": "Shift+Alt+Space",
+        "hotkey": "CmdOrCtrl+Alt+Z",
         "connections": [ "Read" ]
       }
     ]
