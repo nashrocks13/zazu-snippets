@@ -7,7 +7,7 @@
       {
         "id": "Read",
         "type": "PrefixScript",
-        "prefix": "snip",
+        "prefix": "'",
         "space": true,
         "args": "Required",
         "script": "src/read.js",
